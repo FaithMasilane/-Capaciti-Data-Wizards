@@ -1,0 +1,46 @@
+ID,Name,Age,Email,Salary ($),Joining Date,Department
+40,Eve,23.0,eve@ex.co,65000,02/10/2023,HR
+26,Alice,31.0,alice@example.com,"50,000",2022-01-15,HR
+27,Bob,24.0,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+4,David,22.0,david@example,50000,2021-07-10,Finance
+36,Alice,26.0,alice@example.com,"50,000",2022-01-15,HR
+2,Bob,,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+5,Eve,27.0,eve@ex.co,65000,02/10/2023,HR
+13,Charlie,,charlie@example.com,60000$,"March 3, 2020",Marketing
+9,David,23.0,david@example,50000,2021-07-10,Finance
+4,David,22.0,david@example,50000,2021-07-10,Finance
+7,Bob,29.0,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+25,Eve,23.0,eve@ex.co,65000,02/10/2023,HR
+33,Charlie,22.0,charlie@example.com,60000$,"March 3, 2020",Marketing
+20,Eve,25.0,eve@ex.co,65000,02/10/2023,HR
+18,Charlie,22.0,charlie@example.com,60000$,"March 3, 2020",Marketing
+14,David,21.0,david@example,50000,2021-07-10,Finance
+3,Charlie,30.0,charlie@example.com,60000$,"March 3, 2020",Marketing
+16,Alice,27.0,alice@example.com,"50,000",2022-01-15,HR
+10,Eve,31.0,eve@ex.co,65000,02/10/2023,HR
+17,Bob,,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+38,Charlie,29.0,charlie@example.com,60000$,"March 3, 2020",Marketing
+32,Bob,,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+28,Charlie,28.0,charlie@example.com,60000$,"March 3, 2020",Marketing
+1,Alice,25.0,alice@example.com,"50,000",2022-01-15,HR
+31,Alice,27.0,alice@example.com,"50,000",2022-01-15,HR
+30,Eve,21.0,eve@ex.co,65000,02/10/2023,HR
+6,Alice,26.0,alice@example.com,"50,000",2022-01-15,HR
+12,Bob,28.0,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+34,David,30.0,david@example,50000,2021-07-10,Finance
+2,Bob,,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+1,Alice,25.0,alice@example.com,"50,000",2022-01-15,HR
+22,Bob,24.0,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+3,Charlie,30.0,charlie@example.com,60000$,"March 3, 2020",Marketing
+35,Eve,25.0,eve@ex.co,65000,02/10/2023,HR
+24,David,,david@example,50000,2021-07-10,Finance
+37,Bob,24.0,BOB@EXAMPLE.COM,55000,15-02-2021,Engineering
+11,Alice,24.0,alice@example.com,"50,000",2022-01-15,HR
+23,Charlie,29.0,charlie@example.com,60000$,"March 3, 2020",Marketing
+19,David,30.0,david@example,50000,2021-07-10,Finance
+5,Eve,27.0,eve@ex.co,65000,02/10/2023,HR
+21,Alice,26.0,alice@example.com,"50,000",2022-01-15,HR
+8,Charlie,,charlie@example.com,60000$,"March 3, 2020",Marketing
+15,Eve,26.0,eve@ex.co,65000,02/10/2023,HR
+29,David,,david@example,50000,2021-07-10,Finance
+39,David,,david@example,50000,2021-07-10,Finance
